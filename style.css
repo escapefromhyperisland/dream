@@ -1,0 +1,91 @@
+/*font-family: 'Nuosu SIL', serif; 
+ font-family:'Helvetica Now Text W01 Light', 'Helvetica Light', Helvetica, Arial, sans-serif;*/
+body {
+    height: 100vh;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+    background-color: #F2F2F2;
+    text-align: center;
+}
+
+a-scene {
+    height: 80vh;
+
+  }
+
+h1 {
+    color: #0000FF;
+    font-family:'Helvetica Now Text W01 Light', 'Helvetica Light', Helvetica, Arial, sans-serif;
+    margin-top: 3.5vh;
+    margin-bottom: 1.5vh;
+}
+
+h2 {
+    color:#0000FF;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 16px;
+    display: inline-block;
+    margin: 0px 12px 0px;
+}
+
+p {
+    color:#0000FF;
+    font-family: 'Source Serif Pro', serif;
+    display: inline-block;
+}
+
+button {
+    margin:0;
+    border-style: none;
+}
+
+#welcome {
+    margin: 0px 24px 18px;
+}
+
+#level {
+    display: inline-block;
+    margin: 25px 32px 18px;
+}
+
+
+#score {
+    color:#0000FF;
+    display: inline-block;
+    margin: 25px 32px 18px;
+}
+
+#choice {
+    display: inline;
+    text-align: center;
+
+}
+
+
+#room12 {
+    height: 150px;
+    display: inline;
+    margin: 16px 32px 75px;
+}
+
+#room13 {
+    height: 100px;
+    display: inline;
+    margin: 16px 32px 75px;
+}
+
+#room11 {
+    height: 100px;
+    display: inline;
+    margin: 16px 32px 75px;
+}
+
+#room14 {
+    height: 100px;
+    display: inline;
+    margin: 16px 32px 75px;
+}
+
+
+
+
