@@ -66,24 +66,28 @@ button {
     height: 150px;
     display: inline;
     margin: 16px 32px 75px;
+    cursor: pointer;
 }
 
 #room13 {
     height: 100px;
     display: inline;
     margin: 16px 32px 75px;
+    cursor: pointer;
 }
 
 #room11 {
     height: 100px;
     display: inline;
     margin: 16px 32px 75px;
+    cursor: pointer;
 }
 
 #room14 {
     height: 100px;
     display: inline;
     margin: 16px 32px 75px;
+    cursor: pointer;
 }
 
 
